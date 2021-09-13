@@ -52,12 +52,12 @@
         "BG_IMAGE": {
             "description": "fill with your costum background image link",
             "required": false,
-            "value": "https://telegra.ph/file/20147c4f049e2c1f2f248.png"
+            "value": "https://telegra.ph/file/d2ed6d40c527aa9fed38b.png"
         },
         "THUMB_IMG": {
             "description": "fill with costum thumbnail image it's different with bg_image",
             "required": false,
-            "value": "https://telegra.ph/file/6809135960af808e931b9.png"
+            "value": "https://telegra.ph/file/52fc690e945ebb281856d.png"
         },
         "OWNER_NAME": {
             "description": "fill with your username without @",
