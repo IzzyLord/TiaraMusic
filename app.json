@@ -1,7 +1,7 @@
 {
-    "name": "Veez Music Bot",
+    "name": "Tiara Music Bot",
     "logo": "https://i.postimg.cc/SQBqsJjN/logo8-11-232731.png",
-    "description": "Veez Music project allow you to stream music trought the telegram voice chat feature.",
+    "description": "Music project allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
     "repository": "https://github.com/levina-lab/veezmusic",
     "stack": "container",
@@ -13,16 +13,17 @@
         "BOT_TOKEN": {
             "description": "your bot token from @BotFather",
             "required": true
+            "value": "1900016404:AAE3e9ED3yQtqhlFw3FyYvhaSZ4-zBYtAgA"
         },
         "BOT_NAME": {
             "description": "your music bot name.",
             "required": true,
-            "value": ""
+            "value": "🎵 𝐓𝐢𝐚𝐫𝐚 𝐌𝐮𝐬𝐢𝐜 🎵"
         },
         "OWNER_ID": {
             "description": "fill with your telegram id as the owner of the bot",
             "required": true,
-            "value": ""
+            "value": "1223626545"
         },
         "DATABASE_URL": {
             "description": "fill with the mongodb url get from cloud.mongodb.com",
@@ -42,12 +43,12 @@
         "BOT_USERNAME": {
             "description": "fill with your bot username without @",
             "required": true,
-            "value": "veezmusicbot"
+            "value": "TiaraMusic_Bot"
         },
         "ASSISTANT_NAME": {
             "description": "fill with the assistant username without @",
             "required": true,
-            "value": "veezasisstant"
+            "value": "AssistanceMutiara"
         },
         "BG_IMAGE": {
             "description": "fill with your costum background image link",
@@ -62,7 +63,7 @@
         "OWNER_NAME": {
             "description": "fill with your username without @",
             "required": false,
-            "value": "dlwrml"
+            "value": "Oyhaok"
         },
         "API_ID": {
             "description": "your App ID from my.telegram.org/apps",
@@ -89,12 +90,12 @@
         "UPDATES_CHANNEL": {
             "description": "if you have channel fill the channel username here without @",
             "required": false,
-            "value": "levinachannel"
+            "value": "mutiaraindh"
         },
         "GROUP_SUPPORT": {
             "description": "if you have group fill the group username here without @",
             "required": false,
-            "value": "VeezSupportGroup"
+            "value": "jawravirtul"
         }
     },
     "buildpacks": [
